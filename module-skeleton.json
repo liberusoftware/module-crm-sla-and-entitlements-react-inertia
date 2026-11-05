@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sla-and-entitlements-react-inertia",
+  "capabilityKey": "liberusoftware/module-crm-sla-and-entitlements",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-crm-sla-and-entitlements-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/crm/nextjs/sla-and-entitlements.md",
+  "presentationPlan": "projects/crm/react/sla-and-entitlements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
